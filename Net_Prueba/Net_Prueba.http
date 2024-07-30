@@ -1,0 +1,6 @@
+@Net_Prueba_HostAddress = http://localhost:5100
+
+GET {{Net_Prueba_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
